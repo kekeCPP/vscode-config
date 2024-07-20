@@ -41,7 +41,6 @@
   "editor.foldingImportsByDefault": true,
   "editor.titleBar.enabled": false,
   "debug.enableStatusBarColor": false,
-  "workbench.statusBar.visible": false,
   "files.autoSave": "afterDelay",
   "workbench.layoutControl.enabled": false,
   "workbench.sideBar.location": "right",
@@ -54,4 +53,6 @@
   "window.menuBarVisibility": "compact",
   "editor.glyphMargin": false,
   "scm.diffDecorationsGutterAction": "none",
+  "workbench.statusBar.visible": false,
+  "editor.scrollbar.horizontal": "hidden",
 }
