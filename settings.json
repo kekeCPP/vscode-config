@@ -1,0 +1,57 @@
+{
+  "window.zoomLevel": 2,
+  "editor.fontVariations": false,
+  "editor.fontWeight": "normal",
+  "window.enableMenuBarMnemonics": false,
+  "editor.fontFamily": "'Hack Nerd Font Mono'",
+  "files.trimTrailingWhitespace": true,
+  "vim.visualModeKeyBindingsNonRecursive": [],
+  "vim.visualModeKeyBindings": [],
+  "editor.fontSize": 20,
+  "editor.stickyScroll.enabled": false,
+  "tailwindCSS.experimental.configFile": null,
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css",
+    "vue": "vue"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "window.commandCenter": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "vim.statusBarColorControl": true,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#005f5f",
+    "statusBar.noFolderBackground": "#005f5f",
+    "statusBar.debuggingBackground": "#005f5f",
+    "statusBar.foreground": "#ffffff",
+    "statusBar.debuggingForeground": "#ffffff",
+    // Gutter indicators (left)
+    "editorGutter.modifiedBackground": "#0000",
+    "editorGutter.addedBackground": "#0000",
+    "editorGutter.deletedBackground": "#0000",
+
+  },
+  "editor.foldingImportsByDefault": true,
+  "editor.titleBar.enabled": false,
+  "debug.enableStatusBarColor": false,
+  "workbench.statusBar.visible": false,
+  "files.autoSave": "afterDelay",
+  "workbench.layoutControl.enabled": false,
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "top",
+  "editor.guides.indentation": false,
+  "scm.diffDecorationsGutterVisibility": "hover",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "window.menuBarVisibility": "compact",
+  "editor.glyphMargin": false,
+  "scm.diffDecorationsGutterAction": "none",
+}
