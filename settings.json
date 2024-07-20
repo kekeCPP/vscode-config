@@ -55,4 +55,6 @@
   "scm.diffDecorationsGutterAction": "none",
   "workbench.statusBar.visible": false,
   "editor.scrollbar.horizontal": "hidden",
+  "terminal.integrated.fontSize": 20,
+  "terminal.integrated.fontWeightBold": "normal",
 }
