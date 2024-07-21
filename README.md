@@ -2,5 +2,14 @@
 My own personal vs code configuration
 
 ## Commands
-#### Toggle minimap
-  Ctrl + m
+#### Toggle Minimap
+```Ctrl + m```
+
+#### Toggle Sidebar
+```Ctrl + e```
+
+#### Open File
+```Ctrl + p```
+
+#### Toggle Terminal
+```§```
